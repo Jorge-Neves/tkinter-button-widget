@@ -4,7 +4,7 @@ from tkinter import ttk
 
 root = Tk()
 
-root.geometry("500x500")
+root.geometry("500x350")
 
 
 def popup_one():
